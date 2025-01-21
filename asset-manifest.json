@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/urbanaura/static/css/main.256ac2f6.css",
-    "main.js": "/urbanaura/static/js/main.f0975c99.js",
+    "main.js": "/urbanaura/static/js/main.b6ecc253.js",
     "static/js/453.ed3810f9.chunk.js": "/urbanaura/static/js/453.ed3810f9.chunk.js",
     "static/media/sec2.jpg": "/urbanaura/static/media/sec2.af8cf6d2136c46de563d.jpg",
     "static/media/user.jpg": "/urbanaura/static/media/user.8506c781d62ae2d13995.jpg",
@@ -31,11 +31,11 @@
     "static/media/slick.woff": "/urbanaura/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/urbanaura/index.html",
     "main.256ac2f6.css.map": "/urbanaura/static/css/main.256ac2f6.css.map",
-    "main.f0975c99.js.map": "/urbanaura/static/js/main.f0975c99.js.map",
+    "main.b6ecc253.js.map": "/urbanaura/static/js/main.b6ecc253.js.map",
     "453.ed3810f9.chunk.js.map": "/urbanaura/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.256ac2f6.css",
-    "static/js/main.f0975c99.js"
+    "static/js/main.b6ecc253.js"
   ]
 }
