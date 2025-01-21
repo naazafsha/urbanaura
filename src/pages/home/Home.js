@@ -52,7 +52,7 @@ function Home() {
           <div className='row'>
             <div className='col-md-12 col-12 text-center'>
               <h2 className='w600 md52 sm35 xs28 white heading-upside'>Welcome to
-                <span className='orange2 md60 sm40 xs30'> Desi Delight</span> Here We Are</h2>
+                <span className='orange2 md60 sm40 xs30'> Urban Aura</span> Here We Are</h2>
               <img src={borderImage} className='img-fluid mx-auto d-md-block d-none' alt=''></img>
               <p className='white md24 sm18 xs17 mt2'>Your one-stop destination for unparalleled service and unforgettable experiences.</p>
               <div className='affiliate-btn mt3'>
@@ -75,7 +75,7 @@ function Home() {
                       <div className='icon'>
                         <i class="fa-solid fa-bowl-food"></i>
                       </div>
-                      <h4 className='w800 pink mt4'>Dine-In</h4>
+                      <h4 className='w800 pink mt4'>Interior Designs</h4>
                     </div>
                   </Link>
                 </div>
@@ -85,7 +85,7 @@ function Home() {
                       <div className='icon'>
                         <i class="fas fa-shipping-fast"></i>
                       </div>
-                      <h4 className='w800 pink mt4'> Home Delivery</h4>
+                      <h4 className='w800 pink mt4'>Exterior designs</h4>
                     </div></Link>
                 </div>
                 <div className='col-md-4 col-12 text-center mt3'>
@@ -94,7 +94,7 @@ function Home() {
                       <div className='icon'>
                         <i class="fas fa-plate-wheat"></i>
                       </div>
-                      <h4 className='w800 pink mt4'>Catering</h4>
+                      <h4 className='w800 pink mt4'>Civil Services</h4>
                     </div>
                   </Link>
                 </div>
